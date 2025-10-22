@@ -22,7 +22,7 @@ async function signin(){
   <div class="left">
     <div class="brand">
       <img src="/src/assets/logo.svg" alt="Team Achieve" />
-      <div class="title">Team Achieve</div>
+    
     </div>
     <div class="hero">
       <img src="/src/assets/hero.svg" alt="Happy team" />
